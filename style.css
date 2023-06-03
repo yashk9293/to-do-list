@@ -79,10 +79,6 @@ button:hover{
     width: 100%;
 }
 
-.task p {
-    cursor: pointer;
-}
-
 .task span {
     color: rgba(0, 0, 0, 0.632);
     font: 100 0.9rem sans-serif;
