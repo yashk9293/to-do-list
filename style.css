@@ -104,3 +104,21 @@ button:hover{
     align-items: center;
     background-color: crimson;
 }
+
+.author-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: azure;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.author-text>p>a>b {
+    color: azure;
+}
