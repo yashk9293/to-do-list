@@ -1,1 +1,2 @@
-# to-do-list
+## to-do-list
+A simple to-do-list using JavaScript
